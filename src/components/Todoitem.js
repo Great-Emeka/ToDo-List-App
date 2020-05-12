@@ -4,8 +4,8 @@ export default class todoItem extends Component {
     render() {
         return (
             <div>
-                Hello from todo Item
+                <i className="fas fa-user text-primary px-1"></i>Hello from todo Item
             </div>
-        )
+        );
     }
 }

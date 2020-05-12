@@ -7,7 +7,7 @@ export default class todoList extends Component {
         return (
             <div>
                 <h1>Hello</h1>
-                <Todoitem/>
+                <Todoitem />
             </div>
         )
     }
